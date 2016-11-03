@@ -55,7 +55,8 @@ usage:
 
 - `raw_yeast_snoRNA_table_as_tsv.txt`
 
->  The file is a dab-delimited table version of a table of yeast snoRNA information and characteristics presently from Founier Lab's Yeast snoRNA database, specifically http://people.biochem.umass.edu/sfournier/fournierlab/snornadb/mastertable.php . It is provided here as `raw_yeast_snoRNA_table_as_tsv.txt` along with the script `delineate_properties_of_yeast_snoRNAs_in_gene_list.py`. derived from the Founier Lab's Yeast snoRNA database. The table is presently part Founier Lab's Yeast snoRNA database hosted on the UMass Amherst biochemistry department site, but the site will soon move. Already the site where the table resides can be hard to access as it undergoes bit-rot, and because of that the script doesn't feature a way to retrieve the data via the web. Instead, this already script-useable table is provided for use with the script. You'll need to insure it is the same directory as the script.
+>  The file is a dab-delimited table version of a table of yeast snoRNA information and characteristics presently from Founier Lab's Yeast snoRNA database, specifically http://people.biochem.umass.edu/sfournier/fournierlab/snornadb/mastertable.php . It is provided here as `raw_yeast_snoRNA_table_as_tsv.txt` along with the script `delineate_properties_of_yeast_snoRNAs_in_gene_list.py`.  
+The table is presently part of the Founier Lab's Yeast snoRNA database hosted on the UMass Amherst biochemistry department site, but the site will soon move. Already the site where the table resides can be hard to access as it undergoes bit-rot, and because of that the script purposelfully doesn't feature a way to retrieve the data via the web. Instead, this already script-useable table is provided for use with the script. You'll need to insure it is the same directory as the script.
 
 ---
 
