@@ -13,7 +13,7 @@
 - `delineate_properties_of_yeast_snoRNAs_in_gene_list.py`
 
 >  list of genes --> thorough accounting of the snoRNAs in that list    
-`delineate_properties_of_yeast_snoRNAs_in_gene_list.py` takes a gene list and looks for all the snoRNAs it contains. snoRNAs fall into several categories based on family, target, etc. and an account of those falling in these various categories is generated. The output will include an analysis of enrichment for each of the categories of yeast snoRNAs.  
+`delineate_properties_of_yeast_snoRNAs_in_gene_list.py` takes a gene list and looks for all the snoRNAs it contains. Such a list may come from an RNA-Seq or microarray analysis or other type of high-throughput genetics experment. snoRNAs fall into several categories based on family, target, etc. and an account of those falling in these various categories is generated. The output will include an analysis of enrichment for each of the categories of yeast snoRNAs.  
 The script relies on a tab-separated values table that is provided in the repository with the script.  
 You will also need to provide a gene list in the same repository as the script. See details below.
 
