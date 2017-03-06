@@ -80,3 +80,5 @@ Since this repository concerns using annotations, data mining, and text manipula
 - [My sequence work repository](https://github.com/fomightez/sequencework) has code for adjusting annotations and gene lists
 
 - [My text mining repository](https://github.com/fomightez/text_mining) has code for dealing with lists in general
+
+- [My YeastMine repository](https://github.com/fomightez/yeastmine) has a number of scripts for examining yeast genomic data and converting the output to different forms or useful data using YeastMine proromatically.
