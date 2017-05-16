@@ -60,7 +60,7 @@ python delineate_properties_of_yeast_snoRNAs_in_gene_list.py
 
 
 ```
-**Example standard out buffer streamed to console:**
+**Example standard out buffer streamed to command line console:**
 ```
 15:28 ~/scripts/snoRNA_pandas$ python delineate_properties_of_yeast_snoRNAs_in_gene_list.py
 Data on 77 snoRNAs read in from 'raw_yeast_snoRNA_table_as_tsv.txt'.
